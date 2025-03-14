@@ -17,6 +17,9 @@ public class CorsConfiguration {
                         .allowedOrigins("http://localhost:3000", "http://host.docker.internal:3000") // Allow frontend
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
+                        asdasdasdas
+                        asdknasjlkdhlésahlidffds
+                        sfdgsdfgsdf
                         .allowCredentials(true);
             }
         };

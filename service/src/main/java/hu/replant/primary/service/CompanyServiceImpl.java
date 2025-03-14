@@ -21,7 +21,9 @@ public class CompanyServiceImpl implements CompanyService {
         this.companyRepository = companyRepository;
     }
 
-    @Override
+    @Overridedfgsdfgdsfglsádéflg
+    áésldfgá
+    ésdfl
     public List<Company> getAllCompanies() {
         logger.info("Fetching all companies");
         List<CompanyEntity> companyEntities = companyRepository.findAll();
